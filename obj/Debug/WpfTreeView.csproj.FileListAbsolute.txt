@@ -1,0 +1,15 @@
+C:\Users\tttru\source\repos\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\tttru\source\repos\WpfTreeView\bin\Debug\WpfTreeView.exe
+C:\Users\tttru\source\repos\WpfTreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.csproj.AssemblyReference.cache
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\App.g.cs
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\MainWindow.baml
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.exe
+C:\Users\tttru\source\repos\WpfTreeView\obj\Debug\WpfTreeView.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTreeView", "WpfTreeView.csproj", "{8A18487A-3AAD-44EB-A492-361FBDAFF9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A18487A-3AAD-44EB-A492-361FBDAFF9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A18487A-3AAD-44EB-A492-361FBDAFF9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A18487A-3AAD-44EB-A492-361FBDAFF9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A18487A-3AAD-44EB-A492-361FBDAFF9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F01A8AC7-F44B-4358-89EE-4C8A10111AB3}
+	EndGlobalSection
+EndGlobal
